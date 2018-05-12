@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '4842'
     url: http://www.gutenberg.org/2009/agents/4842
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28369#Hebrew-Literature
 gutenberg_issued: '2009-03-20'
 gutenberg_type: Text
 identifiers:
